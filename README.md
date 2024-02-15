@@ -14,7 +14,7 @@ To work with this Clarity smart contract, you will need:
 First, clone this repository to your local machine:
 
 
-git clone https://github.com/Marqui-13/addFunds.clar.git
+git clone https://github.com/Marqui-13/simpleClaritySmartContract.git
 
 
 Ensure you have Clarinet installed or access to a Stacks node for testing and deployment.
